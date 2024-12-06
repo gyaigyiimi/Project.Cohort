@@ -9,7 +9,7 @@ Welcome to the Space Tourism Website! This project showcases space destinations 
 
 ## How to View the Website
 This project is live on GitHub Pages. Click the link below to view it:
-[Live Website]([https://<username>.github.io/<repository-name>/](https://github.com/gyaigyiimi/Project.cohort.git))
+[Live Website](https://github.com/gyaigyiimi/Project.cohort.git)
 
 ## Technologies Used
 - HTML
